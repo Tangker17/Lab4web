@@ -150,7 +150,7 @@ header h1 {
     color: #b5b5b5; }
 ```
 * kemudian hasilnya 
-![internal](img/layout2.png)
+![internal](img/layout2.PNG)
 
 # Selanjutnya Kita Mengatur Navigasi
 * Kemudian selanjutnya mengatur navigasi Dibagian style.css.
